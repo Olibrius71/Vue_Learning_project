@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.flrow {
+    display: flex;
+    flex-direction: row;
+}
+
+.flcol {
+    display: flex;
+    flex-direction: column;
+}
